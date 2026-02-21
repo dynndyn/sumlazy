@@ -2,7 +2,7 @@
 
 | Active | Inactive |
 |--------|----------|
-| ![Screenshot 1](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-20%20203652.png) | ![Screenshot 2](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-21%20144817.png) |
+| ![Screenshot 1](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-21%20155513.png) | ![Screenshot 2](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-21%20144817.png) |
 
 ---
 
