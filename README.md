@@ -1,22 +1,14 @@
 # SumLazy — Discord Quest Auto Solver
 
-> Automatically solves Discord Quests using auto fetch. No manual effort needed.
-
-[![Preview](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-20%20203652.png)](https://discordquest-solver.netlify.app/)
+| Active | Inactive |
+|--------|----------|
+| ![Screenshot 1](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-20%20203652.png) | ![Screenshot 2](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-21%20144817.png) |
 
 ---
 
 ## 🎬 Demo
 
 **[▶️ Watch Full Demo](https://discordquest-solver.netlify.app/)**
-
----
-
-## 📸 Screenshots
-
-| Active | Inactive |
-|--------|----------|
-| ![Screenshot 1](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-20%20203652.png) | ![Screenshot 2](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-21%20144817.png) |
 
 ---
 
