@@ -1,15 +1,41 @@
-# Project Documentation
+# SumLazy — Discord Quest Auto Solver
 
-Repository ini dibuat sebagai referensi terkait video berikut:
+> Automatically solves Discord Quests using auto fetch. No manual effort needed.
 
-[![Preview 1](https://github.com/dynndyn/sumlazy/blob/main/Screenshot%202026-02-20%20203652.png?raw=true)](https://www.tiktok.com/@adinwsix66/video/7608085965520817426?is_from_webapp=1&sender_device=pc)
-
-[![Preview 2](https://github.com/dynndyn/sumlazy/blob/main/Screenshot%202026-02-21%20144817.png?raw=true)](https://www.tiktok.com/@adinwsix66/video/7608085965520817426?is_from_webapp=1&sender_device=pc)
+[![Preview](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-20%20203652.png)](https://discordquest-solver.netlify.app/)
 
 ---
 
-### ▶️ Tonton Video
+## 🎬 Demo
 
-Klik tombol di bawah ini untuk melihat video lengkap:
+**[▶️ Watch Full Demo](https://discordquest-solver.netlify.app/)**
 
-[▶️ Watch Video](https://www.tiktok.com/@adinwsix66/video/7608085965520817426?is_from_webapp=1&sender_device=pc)
+---
+
+## 📸 Screenshots
+
+| Active | Inactive |
+|--------|----------|
+| ![Screenshot 1](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-20%20203652.png) | ![Screenshot 2](https://github.com/dynndyn/sumlazy/raw/main/Screenshot%202026-02-21%20144817.png) |
+
+---
+
+## ⚙️ How It Works
+
+SumLazy uses auto fetch to detect and solve Discord Quests automatically — no manual interaction required. Just run it and let it handle the rest.
+
+---
+
+## 🚀 Getting Started
+
+Download the latest release from the [Releases](https://github.com/dynndyn/sumlazy/releases) page.
+
+---
+
+## 📄 License
+
+This project is for educational purposes only.
+
+---
+
+<p align="center">Made by <a href="https://github.com/dynndyn">@dynndyn</a></p>
